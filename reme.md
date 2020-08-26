@@ -109,9 +109,9 @@
   },
 {
   }
-]
 
-[
+// version 300
+
   {
     "url": "https://api.github.com/repos/DanTheMan827/ios-app-signer/releases/21983653",
     "assets_url": "https://api.github.com/repos/DanTheMan827/ios-app-signer/releases/21983653/assets",
