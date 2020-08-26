@@ -111,8 +111,6 @@
   }
 ]
 
-// version 3.0.0
-
 [
   {
     "url": "https://api.github.com/repos/DanTheMan827/ios-app-signer/releases/21983653",
