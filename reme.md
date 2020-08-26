@@ -105,7 +105,7 @@
     ],
     "tarball_url": "https://api.github.com/repos/DanTheMan827/ios-app-signer/tarball/1.13.1",
     "zipball_url": "https://api.github.com/repos/DanTheMan827/ios-app-signer/zipball/1.13.1",
-    "body": "- Add the option to skip the plugins folder, this allows for separate signatures for extensions and the main app.\r\n  \r\n  Thanks to @kambala-decapitator for the pull request"
+    "body": "- Bug Fix: pass the required full path to checkMachOFile instead of just the file name\r\n- Revert commit 73f30c6, this was causing some incorrect entitlement IDs"
   },
 {
   }
