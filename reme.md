@@ -6,9 +6,9 @@
     "html_url": "https://github.com/DanTheMan827/ios-app-signer/releases/tag/1.13.1",
     "id": 21983653,
     "node_id": "MDc6UmVsZWFzZTIxOTgzNjUz",
-    "tag_name": "1.0.0",
+    "tag_name": "3.0.0",
     "target_commitish": "master",
-    "name": "1.0.0",
+    "name": "3.0.0",
     "draft": false,
     "author": {
       "login": "DanTheMan827",
@@ -105,7 +105,7 @@
     ],
     "tarball_url": "https://api.github.com/repos/DanTheMan827/ios-app-signer/tarball/1.13.1",
     "zipball_url": "https://api.github.com/repos/DanTheMan827/ios-app-signer/zipball/1.13.1",
-    "body": "- added support for ipad\r\n- Thanks to roarijo80 we have a new icon"
+    "body": "- fix some problems with the popup\r\n- Thanks to roarijo80 we have a new icon"
   },
 {
   }
