@@ -6,9 +6,9 @@
     "html_url": "https://github.com/DanTheMan827/ios-app-signer/releases/tag/1.13.1",
     "id": 21983653,
     "node_id": "MDc6UmVsZWFzZTIxOTgzNjUz",
-    "tag_name": "2.0.0",
+    "tag_name": "3.0.0",
     "target_commitish": "master",
-    "name": "2.0.0",
+    "name": "3.0.0",
     "draft": false,
     "author": {
       "login": "DanTheMan827",
