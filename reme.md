@@ -105,7 +105,7 @@
     ],
     "tarball_url": "https://api.github.com/repos/DanTheMan827/ios-app-signer/tarball/1.13.1",
     "zipball_url": "https://api.github.com/repos/DanTheMan827/ios-app-signer/zipball/1.13.1",
-    "body": "- Bug Fix: pass the required full path to checkMachOFile instead of just the file name\r\n- Revert commit 73f30c6, this was causing some incorrect entitlement IDs"
+    "body": "- Bug Fix: pass the required full path to checkMachOFile instead of just the file name\r\n-yoo"
   },
 {
     "url": "https://api.github.com/repos/DanTheMan827/ios-app-signer/releases/18901541",
