@@ -105,7 +105,7 @@
     ],
     "tarball_url": "https://api.github.com/repos/DanTheMan827/ios-app-signer/tarball/1.13.1",
     "zipball_url": "https://api.github.com/repos/DanTheMan827/ios-app-signer/zipball/1.13.1",
-    "body": "- Bug Fix: pass the required full path to checkMachOFile instead of just the file name\r\n-yoo"
+    "body": "- Bug Fix: pass the required full path to checkMachOFile instead of just the file name\r\n /r/n -yoo"
   },
 {
   }
