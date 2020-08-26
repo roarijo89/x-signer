@@ -9,11 +9,5 @@
     "tag_name": "2.0.0",
     "target_commitish": "master",
     "name": "2.0.0",
-    },
-    "prerelease": false,
-    "created_at": "2019-12-05T03:57:55Z",
-    "published_at": "2019-12-05T04:06:12Z",
-    "assets": [
-      {
   }
 ]
