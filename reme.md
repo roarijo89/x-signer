@@ -8,7 +8,7 @@
     "node_id": "MDc6UmVsZWFzZTIxOTgzNjUz",
     "tag_name": "1.13.10",
     "target_commitish": "master",
-    "name": "1.13.9",
+    "name": "1.13.10",
     "draft": false,
     "author": {
       "login": "DanTheMan827",
