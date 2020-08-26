@@ -220,7 +220,7 @@
     ],
     "tarball_url": "https://api.github.com/repos/DanTheMan827/ios-app-signer/tarball/1.13.1",
     "zipball_url": "https://api.github.com/repos/DanTheMan827/ios-app-signer/zipball/1.13.1",
-    "body": "- added support for ipads\r\n- Thanks to roarijo80 we have a new icon"
+    "body": "- tesing mode\r\n- update wendays"
   },
 {
   }
