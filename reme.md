@@ -6,9 +6,9 @@
     "html_url": "https://github.com/DanTheMan827/ios-app-signer/releases/tag/1.13.1",
     "id": 21983653,
     "node_id": "MDc6UmVsZWFzZTIxOTgzNjUz",
-    "tag_name": "2.0.0",
+    "tag_name": "1.1",
     "target_commitish": "master",
-    "name": "2.0.0",
+    "name": "1.1",
     "draft": false,
     "author": {
       "login": "DanTheMan827",
@@ -105,7 +105,7 @@
     ],
     "tarball_url": "https://api.github.com/repos/DanTheMan827/ios-app-signer/tarball/1.13.1",
     "zipball_url": "https://api.github.com/repos/DanTheMan827/ios-app-signer/zipball/1.13.1",
-    "body": "- added the donation link\r\n- please donate to help us pay all are bills"
+    "body": "- added a donation link\r\n- please donate to help us pay all are bills"
   },
 {
   }
