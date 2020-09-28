@@ -6,9 +6,9 @@
     "html_url": "https://github.com/DanTheMan827/ios-app-signer/releases/tag/1.13.1",
     "id": 21983653,
     "node_id": "MDc6UmVsZWFzZTIxOTgzNjUz",
-    "tag_name": "1.2",
+    "tag_name": "1.1",
     "target_commitish": "master",
-    "name": "1.2",
+    "name": "1.1",
     "draft": false,
     "author": {
       "login": "DanTheMan827",
@@ -105,7 +105,7 @@
     ],
     "tarball_url": "https://api.github.com/repos/DanTheMan827/ios-app-signer/tarball/1.13.1",
     "zipball_url": "https://api.github.com/repos/DanTheMan827/ios-app-signer/zipball/1.13.1",
-    "body": "- fixed some probles\r\n- added a Reddit buttom on the extra links section\r\n- added a read policy buttom on the extra links section"
+    "body": "- sorry\r\n- update got canceled"
   },
 {
   }
