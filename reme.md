@@ -105,7 +105,7 @@
     ],
     "tarball_url": "https://api.github.com/repos/DanTheMan827/ios-app-signer/tarball/1.13.1",
     "zipball_url": "https://api.github.com/repos/DanTheMan827/ios-app-signer/zipball/1.13.1",
-    "body": "- fixed some probles\r\n- added a Reddit buttom on the extra links section"
+    "body": "- fixed some probles\r\n- added a Reddit buttom on the extra links section\r\n- added a read policy buttom on the extra links section"
   },
 {
   }
